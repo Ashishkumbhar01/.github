@@ -1,4 +1,4 @@
-<h1 align="center">Rahim Sahu</h1>
+<h1 align="center">Ashish Kumbhar</h1>
 <h3 align="center">Self-Taught Backend-Focused Full Stack Developer</h3>
 
 <p align="center">
